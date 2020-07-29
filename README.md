@@ -83,10 +83,12 @@ at any time of day,
 support students through chat in AAQ and through 20-minute pairing sessions over
 Zoom.
 
-You can ask a question by clicking the “Ask A Question” button in
-the top right of your current lesson or lab.
+You can ask a question by clicking the “Ask A Question” button at the bottom of
+your current lesson or lab.
 
-![AskAQuestion](https://curriculum-content.s3.amazonaws.com/prework/AAQButton.png)
+![AskAQuestion](https://curriculum-content.s3.amazonaws.com/aaq-button.png)
+
+Clicking this button will display a form where you can submit your question.
 
 **Questions must be related to the current lesson or lab that you are working on.**
 AAQ does not support questions related to portfolio projects, code challenges,
