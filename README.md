@@ -32,9 +32,9 @@ Some examples of independent troubleshooting might look like:
 - Googling your error or related concepts
 - Using debugging tools like [Pry](http://pry.github.io/) to understand your
   error better (we'll introduce Pry to you soon)
-- Checking out [Learn's help articles](help.learn.co) - these articles include
+- Checking out [Learn's help articles](https://help.learn.co) - these articles include
   advice and answers to frequently asked questions from the Flatiron School
-  Team: help.learn.co
+  Team.
 
 Even if you aren't able to find an answer on your own, taking the time to try
 the options above can help you clarify the question you're asking and eliminate
