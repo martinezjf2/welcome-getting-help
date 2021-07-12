@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Know how to get help
-- Better understand the purpose of Ask A Question (AAQ) and how it works
+- Better understand the purpose of Pair with a TC and how it works
 
 ## Introduction
 
@@ -12,7 +12,7 @@ other learners just like you, ready and willing to help each other succeed.
 Together, we can go further than we could ever go alone. Remember, you are going
 to get stuck sometimes! As with any new skill you learn, coding can be difficult
 and frustrating. After a certain point, being stuck on a problem becomes
-counterproductive - you’re stuck and you need help getting unstuck!
+counterproductive — you’re stuck and you need help getting unstuck!
 
 If you get stuck following the instructions or grasping a coding concept, there
 are a few things you can do. In this lesson, we'll look at some of the options
@@ -21,7 +21,7 @@ available.
 ## Try Troubleshooting First
 
 Whenever possible, you should try to troubleshoot your issue independently first
-before seeking help. 
+before seeking help.
 
 Some examples of independent troubleshooting might look like:
 
@@ -32,9 +32,10 @@ Some examples of independent troubleshooting might look like:
 - Googling your error or related concepts
 - Using debugging tools like [Pry](http://pry.github.io/) to understand your
   error better (we'll introduce Pry to you soon)
-- Checking out [Learn's help articles](https://help.learn.co) - these articles include
-  advice and answers to frequently asked questions from the Flatiron School
-  Team.
+- Checking out
+  [Flatiron's help articles](https://flatironschoolsupport.zendesk.com/hc/en-us)
+  — these articles include advice and answers to frequently asked questions from
+  the Flatiron School Team.
 
 Even if you aren't able to find an answer on your own, taking the time to try
 the options above can help you clarify the question you're asking and eliminate
@@ -50,76 +51,86 @@ Equally, if you find someone asking a question that you can provide insight on,
 please do! One of the best ways to confirm your own understanding of a concept
 is to try and help someone else understand it.
 
-## Ask a Question
+## Pair with a TC
 
 Many aspects of learning are inherently social, and it helps to talk problems
 through with individuals who have experienced many of the same problems as you!
-That’s where the Ask a Question Technical Coaches (TCs) come in.
+That’s where the Pair with a TC (Technical Coach) tool come in.
 
-### Who are TCs?
+### What is Pair with a TC?
 
-TCs help students get unstuck and guide students through pair programming. TCs
-are a team of Flatiron graduates, so they are intimately familiar with Flatiron
-School's curriculum. Some are recent graduates, and some are currently at other
-development jobs outside of Flatiron. With this experience, they are perfectly
-suited to give you a nudge in the right direction!
+Our Pair with a TC service is provided by the Academic Success Team at Flatiron
+School. It is staffed mostly by alumni of Flatiron, many who are full-time
+developers and are working part-time at Flatiron School to share their wealth of
+knowledge with current students.
 
-### Who We Serve
+Students can use this service to reach out to a TC to get support as you work
+your way through the curriculum. The team does not provide any support on
+projects or assessments, but can jump in a screen share to work with you on
+environment issues (unrelated to projects or assessments) or help you make
+progress on curriculum labs.
 
-Technical Coaches provide support for the programs listed in
-[this article][supported tracks]. At any given time there may be 2-5 TCs online;
-staffing is based on how busy it **typically** is during that time of day. Sometimes
-it gets very busy in AAQ unexpectedly! At any given time, there may be anywhere
-from 1-15 active questions (sometimes more!). Please be patient with us as we
-try to help.
+Lastly, TCs only support enrolled students. Anyone working through prework, try
+experiences, or alumni in post-work will not get TC support.
 
-### Get Help In Real Time
+### What can students expect when using this service?
 
-One of the great things about AAQ is the responsiveness of TCs - when TCs are
-online, you can generally expect to receive a response within a couple of
-minutes, provided that it isn’t very busy! While you can open a question in AAQ
-at any time of day,
-[TCs are only available for certain hours of the day][hours]. TCs generally
-support students through chat in AAQ and through 20-minute pairing sessions over
-Zoom.
+- The hours for Pair with a TC are Monday-Friday, 9am - 1am ET; Saturday and
+  Sunday 9am - midnight ET
 
-You can ask a question by clicking the “Ask A Question” button at the bottom of
-your current lesson or lab.
+- There will likely be a wait time. We do our best to
+  staff our service in a way that meets demand, but if all of our TCs are tied up
+  with other students in a given period of time, you may need to wait a little to
+  speak live with someone.
 
-![AskAQuestion](https://curriculum-content.s3.amazonaws.com/aaq-button.png)
+- You should expect to screen share, and to pair program with a TC. Our TCs are
+  trained to teach and guide in the same way as your full-time instructors, which
+  means you won’t always get an answer straight away.
 
-Clicking this button will display a form where you can submit your question.
+- You likely won’t work with a TC all the way through to completing a lab or a
+  final solution. More often than not, they’ll help you get unstuck and give you
+  guidance to continue learning on your own, though you can always pop back in if
+  you get stuck again!
 
-**Questions must be related to the current lesson or lab that you are working on.**
-AAQ does not support questions related to portfolio projects, code challenges,
-or other personal projects.
+- Our team syncs up with the rest of the instructional staff at Flatiron School.
+  Your interactions on this team won’t happen in a vacuum, and if there is a need
+  to loop in your full-time instructor, we will.
 
-AAQ exists to help Flatiron students learn to debug their issues successfully.
-As mentioned, we do encourage you to first attempt your own troubleshooting to
-help narrow down the issue you're facing and eliminate possible solutions.
+### What do TCs expect of students?
 
-That being said, sometimes you are just stuck and truly need a hand - if you
-have tried the above solutions for 20-30 minutes, please feel free to open a
-question! We are happy to help. This article provides some pointers on
-[how to ask a question effectively.][how to]
+- Be kind. We know you might be frustrated or under stress, and we really are
+  here to help you and see you succeed.
+- Be patient. We support a whole lot of students, and it’s hard to predict wait
+  times. We’re working as diligently as we can to get through the queue.
+- Be collaborative. We aren’t going to code for you, or give you the answers
+  straight away. It’s all a part of the learning process!
 
-### Why do Technical Coaches Not Give Out Answers?
+### How does it all work?
 
-The goal at AAQ is to help students learn how to think critically about code -
-this doesn’t happen if we give you answers directly! We use a few different
-general strategies to help accomplish this goal:
+Zendesk Chat is built into Canvas, so as you’re working through the curriculum,
+you should see a chat box floating in the bottom right corner of your screen:
 
-- We use the [Socratic method][] and other questioning techniques.
-- We may recommend that you Google certain concepts, or give you suggestions on
-  terms to Google
-- We may provide you with additional resources on a relevant coding concept to
-  supplement your understanding or help you to think about a problem differently
-- We may provide you with some [pseudocode][] or guide you to construct some
-  pseudocode yourself!
+![Pair with a TC - Step 1](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-getting-help/pair-with-a-tc-1.png)
+
+You’ll be asked to fill out some quick info:
+
+![Pair with a TC - Step 2](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-getting-help/pair-with-a-tc-2.png)
+
+Then you’ll get a response with us giving you some tips on what you can do while you wait, and your position in our queue. If you end up not needing a TC before getting connected to one, you can always click “End Chat” yourself to be removed from the queue.
+
+![Pair with a TC - Step 3](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-getting-help/pair-with-a-tc-3.png)
+
+We love feedback and can only get better when we receive it! Please help us serve you best by letting us know how we did. We want to know what to keep doing, and anything we can do differently:
+
+![Pair with a TC - Step 4](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-getting-help/pair-with-a-tc-4.png)
+
+Once you close your question, you’ll go back to seeing the original button:
+
+![Pair with a TC - Step 5](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-getting-help/pair-with-a-tc-5.png)
 
 ## Conclusion
 
-Ask A Question is here to help support you as you continue your journey to learn
+Pair with a TC is here to help support you as you continue your journey to learn
 to code. While ultimately you must hold yourself accountable for learning the
 concepts in this course, and for developing your debugging skills as a
 programmer, we are here to support you! If you are stuck, do not hesitate to ask
@@ -127,14 +138,10 @@ for help!
 
 ## Resources
 
-- [Ask A Question Best Practices][how to]
 - [When are Technical Coaches Available?][hours]
 - [Socratic Method][]
 - [How to Pseudocode][pseudocode]
 
 [pseudocode]: https://www.wikihow.com/Write-Pseudocode
-[Socratic Method]: https://en.wikipedia.org/wiki/Socratic_method
-[how to]: https://help.learn.co/en/articles/3575055-ask-a-question-best-practices
-[supported tracks]: https://help.learn.co/en/articles/492978-does-my-program-or-course-have-technical-coach-support
-
-[hours]: https://help.learn.co/en/articles/493006-when-are-technical-coaches-available
+[socratic method]: https://en.wikipedia.org/wiki/Socratic_method
+[hours]: https://flatironschoolsupport.zendesk.com/hc/en-us/articles/1500005525241-When-are-Online-SE-Technical-Coaches-available-
