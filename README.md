@@ -53,11 +53,11 @@ experiences, or alumni in post-work will not get TC support.
 
 - LIVE/In-Person Students
   - Monday-Friday, 6pm - Midnight EST; Saturday and Sunday 9am - Midnight EST
-  
+
 - FLEX Students 
   - 7 Days a Week, 9am - Midnight EST;
 
-** Times are subject to change for Holidays. Look at link below to see our holidays
+** Times are subject to change for Holidays
 
 ### What can students expect when using this service?
 
