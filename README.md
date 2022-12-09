@@ -1,35 +1,38 @@
 # Pair with a Technical Coach
 
-
-
-This is challenging material and you will find yourself in positions where you don’t know how to move forward 
-or what to try next. We are here to help you keep moving through the curriculum and to solidify the concepts 
+This is challenging material and you will find yourself in positions where you don’t know 
+how to move forward 
+or what to try next. We are here to help you keep moving through the curriculum and to 
+solidify the concepts 
 that you are learning. You are not alone! 
 
-It helps to talk problems through with individuals who have experienced many of the same problems as you!
+It helps to talk problems through with individuals who have experienced many of the same 
+problems as you!
 That’s where the Pair with a TC (Technical Coach) tool come in.
 
-### What is Pair with a Technical Coach (PTC)?
+## What is Pair with a Technical Coach (PTC)?
 
 Service provided by the Academic Success Team at Flatiron
-School for further support on labs or concepts through Zoom screenshares as you work your way through the 
-curriculum.
+School for further support on labs or concepts through Zoom screenshares as you work your 
+way through the curriculum.
 
 The team does not provide any support on
 projects or assessments, but can jump in a screen share to work with you on
 environment issues (unrelated to projects or assessments) or help you make
 progress on curriculum labs.
 
-### Who are we?
+## Who are we?
 
-Trained technical coaches, most of whom are Flatiron School Graduates and software engineering professionals who are excited to support you and share their wealth of knowledge to the Flatiron School community. 
+Trained technical coaches, most of whom are Flatiron School Graduates and software 
+engineering professionals who are excited to support you and share their wealth of knowledge 
+to the Flatiron School community. 
 
-### Who we support?
+## Who we support?
 
 TCs only support enrolled students. Anyone working through prework, try
 experiences, or alumni in post-work will not get TC support.
 
-### When can students use this service?
+## When can students use this service?
 
 - LIVE/In-Person Students
   - Monday-Friday, 6pm - Midnight EST; Saturday and Sunday 9am - Midnight EST
@@ -39,7 +42,7 @@ experiences, or alumni in post-work will not get TC support.
 
 ** Times are subject to change for Holidays
 
-### What can students expect when using this service?
+## What can students expect when using this service?
 
 - Model problem-solving techniques such as asking questions to assist in breaking down concepts to
 guide you to a solution. Our TCs are trained to teach and guide in the same way as your full-time instructors, which means you won’t always get an answer straight away.
@@ -60,7 +63,7 @@ interact with a Technical Coach.
   Your interactions on this team won’t happen in a vacuum, and if there is a need
   to loop in your full-time instructor, we will.
 
-### What do TCs expect of students?
+## What do TCs expect of students?
 
 - Be kind: We know you might be frustrated or under stress, and we really are
   here to help you and see you succeed.
@@ -72,7 +75,7 @@ interact with a Technical Coach.
   what outcomes can be. See why things may not be working and implement other techniques that can assist
   in getting students a step closer to a solution.
 
-### How does it all work?
+## How does it all work?
 
 Zendesk Chat is built into Canvas, so as you’re working through the curriculum,
 you should see a chat box floating in the bottom right corner of your screen:
