@@ -1,26 +1,6 @@
 # Pair with a Technical Coach
 
-## Learning Goals
 
-- The purpose of Pair with a Technical Coach
-- When and how can students reach out to PTC?
-- Expectations when using the PTC Service
-
-## Introduction
-
-We don't believe in learning alone. As you make progress, expect to bump into
-other learners just like you, ready and willing to help each other succeed.
-Together, we can go further than we could ever go alone. Remember, you are going
-to get stuck sometimes! As with any new skill you learn, coding can be difficult
-and frustrating. After a certain point, being stuck on a problem becomes
-counterproductive — you’re stuck and you need help getting unstuck!
-
-If you get stuck following the instructions or grasping a coding concept, there
-are a few things you can do. In this lesson, we'll look at some of the options
-available.
-
-
-## Pair with a TC
 
 This is challenging material and you will find yourself in positions where you don’t know how to move forward 
 or what to try next. We are here to help you keep moving through the curriculum and to solidify the concepts 
