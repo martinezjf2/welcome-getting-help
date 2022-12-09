@@ -80,6 +80,15 @@ Trained technical coaches, most of whom are Flatiron School Graduates and softwa
 TCs only support enrolled students. Anyone working through prework, try
 experiences, or alumni in post-work will not get TC support.
 
+### When can students use this service?
+
+- LIVE/In-Person Students
+  - Monday-Friday, 6pm - Midnight EST; Saturday and Sunday 9am - Midnight EST
+- FLEX Students 
+  - 7 Days a Week, 9am - Midnight EST;
+
+** Times are subject to change for Holidays. Look at link below to see our holidays
+
 ### What can students expect when using this service?
 
 - The hours for Pair with a TC are Monday-Friday, 9am - 12am EST; Saturday and
@@ -145,7 +154,7 @@ for help!
 
 ## Resources
 
-- [When are Technical Coaches Available?][hours]
+- **[When are Technical Coaches Available?][hours]
 - [Socratic Method][]
 - [How to Pseudocode][pseudocode]
 
