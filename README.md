@@ -154,7 +154,7 @@ for help!
 
 ## Resources
 
-- **[When are Technical Coaches Available?][hours]
+- **[Holiday Availability][hours]
 - [Socratic Method][]
 - [How to Pseudocode][pseudocode]
 
