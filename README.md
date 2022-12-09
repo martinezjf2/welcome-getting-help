@@ -53,30 +53,37 @@ is to try and help someone else understand it.
 
 ## Pair with a TC
 
-Many aspects of learning are inherently social, and it helps to talk problems
-through with individuals who have experienced many of the same problems as you!
+This is challenging material and you will find yourself in positions where you don’t know how to move forward 
+or what to try next. We are here to help you keep moving through the curriculum and to solidify the concepts 
+that you are learning. You are not alone! 
+
+It helps to talk problems through with individuals who have experienced many of the same problems as you!
 That’s where the Pair with a TC (Technical Coach) tool come in.
 
-### What is Pair with a TC?
+## What is Pair with a Technical Coach (PTC)?
 
-Our Pair with a TC service is provided by the Academic Success Team at Flatiron
-School. It is staffed mostly by alumni of Flatiron, many who are full-time
-developers and are working part-time at Flatiron School to share their wealth of
-knowledge with current students.
+Service provided by the Academic Success Team at Flatiron
+School for further support on labs or concepts through Zoom screenshares as you work your way through the 
+curriculum.
 
-Students can use this service to reach out to a TC to get support as you work
-your way through the curriculum. The team does not provide any support on
+The team does not provide any support on
 projects or assessments, but can jump in a screen share to work with you on
 environment issues (unrelated to projects or assessments) or help you make
 progress on curriculum labs.
 
-Lastly, TCs only support enrolled students. Anyone working through prework, try
+### Who are we?
+
+Trained technical coaches, most of whom are Flatiron School Graduates and software engineering professionals who are excited to support you and share their wealth of knowledge to the Flatiron School community. 
+
+### Who we support?
+
+TCs only support enrolled students. Anyone working through prework, try
 experiences, or alumni in post-work will not get TC support.
 
 ### What can students expect when using this service?
 
-- The hours for Pair with a TC are Monday-Friday, 9am - 1am ET; Saturday and
-  Sunday 9am - midnight ET
+- The hours for Pair with a TC are Monday-Friday, 9am - 12am EST; Saturday and
+  Sunday 9am - midnight EST
 
 - There will likely be a wait time. We do our best to
   staff our service in a way that meets demand, but if all of our TCs are tied up
