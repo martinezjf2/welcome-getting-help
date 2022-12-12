@@ -32,7 +32,7 @@ It is important to know when to reach out for help. Waiting too long can build f
 
 *Times are subject to change for Holidays 
 
-## Where 
+## Where can you find us?
 In canvas, there is a chat feature in the bottom right-hand corner of your lessons that 
 will get you connected to a live coach in real-time. 
 
